@@ -9,3 +9,5 @@ https://www.csis.org/analysis/russias-hybrid-aggression-against-georgia-use-loca
 https://nsfocusglobal.com/apt-lorec53-group-launched-a-series-of-cyber-attacks-against-ukraine/
 
 https://www.sentinelone.com/blog/threat-actor-uac-0056-targeting-ukraine-with-fake-translation-software/
+
+https://cert.gov.ua/article/703548
